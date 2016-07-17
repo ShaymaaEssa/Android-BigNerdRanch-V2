@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <!--QuizActivity-->
+    <string name="action_settings">Settings</string>
+    <string name="txt_quizactivity_questiontxt">Question 1</string>
+    <string name="btn_quizactivity_false">false</string>
+    <string name="btn_quizactivity_true">true</string>
+    <string name="toast_correct">Correct!</string>
+    <string name="toast_wrong">Wrong!</string>
+    <string name="btn_quizactivity_next">Next</string>
+    <string name="btn_quizactivity_prev">Prev</string>
+</resources>
